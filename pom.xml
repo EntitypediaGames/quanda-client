@@ -10,7 +10,7 @@
 
     <artifactId>entitypedia-quanda-client</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <name>Entitypedia Quanda Client</name>
     <description>Entitypedia Quanda Java Client</description>
